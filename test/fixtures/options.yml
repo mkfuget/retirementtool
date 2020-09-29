@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  initialGain: 1
+  monthlyGain: 1
+  dateStarted: 1
+  duration: 1
+  choice: one
+
+two:
+  name: MyString
+  initialGain: 1
+  monthlyGain: 1
+  dateStarted: 1
+  duration: 1
+  choice: two
